@@ -31,6 +31,8 @@
 
 <hr>
 
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgnDunes" />
+
 ## :newspaper: Articles/Blogs
  - [Detailed Analysis on affects of Dynamic Typing and Concurrency on Python?](https://www.geeksforgeeks.org/detailed-analysis-on-affects-of-dynamic-typing-and-concurrency-on-python/)
  - [Difference between “__eq__” VS “is” VS “==” in Python](https://www.geeksforgeeks.org/difference-between-__eq__-vs-is-vs-in-python/)
@@ -54,3 +56,5 @@
 <code><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"></code>
 <code><code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"></code>
+ 
+
