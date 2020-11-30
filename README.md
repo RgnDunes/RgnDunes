@@ -10,7 +10,7 @@
 - 💬 Ask me about anything related to tech :sweat_smile: .
 - 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/divyansh-singh-8137201a2/)
 - ⚡ <b>Fun fact:</b> I can slap my friend for \$20 :joy: .
-- :page_facing_up: [Resume](https://drive.google.com/file/d/1oB9K9i5LtQwYWF6tV1pgWAR8bhCvDNVk/view?usp=sharing)
+- :page_facing_up: [Resume](https://github.com/RgnDunes/RgnDunes/blob/main/Resume.pdf)
 
 <hr>
 
