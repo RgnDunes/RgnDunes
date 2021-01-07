@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on some <b>React Projects</b> .
 - 🌱 I’m currently learning <b>Machine Learning</b> .
 - 💬 Ask me about anything related to tech :sweat_smile: .
-- 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/divyansh-singh-8137201a2/)
+- 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/rgndunes)
 - ⚡ <b>Fun fact:</b> I can slap my friend for \$20 :joy: .
 - :page_facing_up: [Resume](https://github.com/RgnDunes/RgnDunes/blob/main/Resume.pdf)
 
