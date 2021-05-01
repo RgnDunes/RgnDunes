@@ -58,6 +58,6 @@
 <code><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"></code>
  
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=rgndunes)](https://github.com/rgndunes/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rgndunes)](https://github.com/ryo-ma/github-profile-trophy)
  
 
