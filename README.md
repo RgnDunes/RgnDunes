@@ -57,4 +57,7 @@
 <code><code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"></code>
  
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rgndunes)](https://github.com/rgndunes/github-profile-trophy)
+ 
 
