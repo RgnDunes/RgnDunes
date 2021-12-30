@@ -1,5 +1,4 @@
 <h1 align="center"><------- Hi there, This is Divyansh Singh aka RgnDunes 👋 </h1>
-<hr>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=RgnDunes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
@@ -12,7 +11,6 @@
 - ⚡ <b>Fun fact:</b> I can slap my friend for free :joy: .
 - :page_facing_up: [Resume](https://github.com/RgnDunes/RgnDunes/blob/main/Resume.pdf)
 
-<hr>
  
 ## Summary
  
@@ -36,7 +34,6 @@
 <a href="https://twitter.com/RgnDunes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/RgnDunes"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
-<hr>
 
 ## :newspaper: Articles/Blogs
  - [Detailed Analysis on affects of Dynamic Typing and Concurrency on Python?](https://www.geeksforgeeks.org/detailed-analysis-on-affects-of-dynamic-typing-and-concurrency-on-python/)
@@ -44,8 +41,6 @@
  - [Using Google Sheets as Database in Python](https://www.geeksforgeeks.org/using-google-sheets-as-database-in-python/)
  - [Hosting MySQL Server on Linux](https://www.geeksforgeeks.org/hosting-mysql-server-on-linux/)
  - [What’s new in Create React App 2.0 ?](https://www.geeksforgeeks.org/whats-new-in-create-react-app-2-0/)
- 
- <hr>
 
 ## :rocket: Skills
 <div>
