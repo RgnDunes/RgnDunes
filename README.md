@@ -7,7 +7,7 @@ Hey there, I'm a final year student pursuing B-Tech from Kalinga Institute of In
 
 - 🌍  I'm based in Prayagraj, Uttar Pradesh, India.
 - 🖥️  See my portfolio at [http://rgndunes-v3.web.app/.](http://rgndunes-v3.web.app/)
-- 📄  View my [Resume](./Resume.pdf)
+- 📄  View my [Resume](./Resume.pdf).
 - ✉️  You can contact me at [LinkedIn.](https://www.linkedin.com/in/rgndunes)
 - 🚀  I'm currently working on [on a solution that provides tokenisation solution for different banks as per the new RBI Guidelines.](http://rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0)
 - 🧠  I'm learning Typescript.
