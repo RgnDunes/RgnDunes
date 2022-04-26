@@ -1,66 +1,77 @@
-<h1 align="center"><------- Hi there, This is Divyansh Singh aka RgnDunes 👋 </h1>
+# Hi 👋 My name is Divyansh Singh
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=RgnDunes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+### Frontend Engineer Intern @Razorpay
 
-## About Me
-
-- 🔭 I’m currently working with <b>Razorpay</b> as a Frontend Engineer Intern .
-- 🌱 I’m currently learning <b>TypeScript</b> .
-- 💬 Ask me about anything related to tech :sweat_smile:, will search it together .
-- 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/rgndunes)
-- ⚡ <b>Fun fact:</b> I can slap my friend for free :joy: .
-- :page_facing_up: [Resume](https://github.com/RgnDunes/RgnDunes/blob/main/Resume.pdf)
-
- 
-## Summary
- 
- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RgnDunes&theme=monokai" />
- </div>
-
- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RgnDunes&theme=monokai"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RgnDunes&theme=monokai"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RgnDunes&theme=monokai"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RgnDunes&theme=monokai"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RgnDunes&theme=monokai&date_format=j%20M%5B%20Y%5D" alt="Github Streak"/>
- </div>
- 
-
-## :two_men_holding_hands: Social Links
-<a href="https://www.linkedin.com/in/divyansh-singh-8137201a2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100026357103811"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/rgndunes/?hl=en"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/RgnDunes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://github.com/RgnDunes"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+Hey there, I'm a final year student pursuing B-Tech from Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India. If I talk about my professional experience, I've worked as <b>Technical Content Writer Intern @GeeksforGeeks</b> (published articles on topics like ReactJS, Firebase, Git, Flask, Python etc), as <b>Software Engineer Intern @Correlations.Ai</b> (worked on ReactJS, Flask, MongoDB) and currently working <b>@Razorpay as a Frontend Engineer Intern</b>.<br/><br/>
 
 
-## :newspaper: Articles/Blogs
- - [Detailed Analysis on affects of Dynamic Typing and Concurrency on Python?](https://www.geeksforgeeks.org/detailed-analysis-on-affects-of-dynamic-typing-and-concurrency-on-python/)
- - [Difference between “__eq__” VS “is” VS “==” in Python](https://www.geeksforgeeks.org/difference-between-__eq__-vs-is-vs-in-python/)
- - [Using Google Sheets as Database in Python](https://www.geeksforgeeks.org/using-google-sheets-as-database-in-python/)
- - [Hosting MySQL Server on Linux](https://www.geeksforgeeks.org/hosting-mysql-server-on-linux/)
- - [What’s new in Create React App 2.0 ?](https://www.geeksforgeeks.org/whats-new-in-create-react-app-2-0/)
+- 🌍  I'm based in Prayagraj, Uttar Pradesh, India.
+- 🖥️  See my portfolio at [http://rgndunes-v3.web.app/.](http://rgndunes-v3.web.app/)
+- ✉️  You can contact me at [LinkedIn.](https://www.linkedin.com/in/rgndunes)
+- 🚀  I'm currently working on [on a solution that provides tokenisation solution for different banks as per the new RBI Guidelines.](http://rbi.org.in/Scripts/NotificationUser.aspx?Id=12159&Mode=0)
+- 🧠  I'm learning Typescript.
+- ⚡  A big Marvel fan.
 
-## :rocket: Skills
-<div>
-<img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" height="20px">
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="20px">
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="20px">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="20px">
-</div>
+```mermaid
+graph TD;
+    Prayagraj-->KIIT-Bhubaneswar
+    KIIT-Bhubaneswar--> |Technical Content Writer|id1([GeeksforGeeks])
+    id1([GeeksforGeeks])--> |Software Engineer Intern|id2([Correlations.Ai])
+    KIIT-Bhubaneswar-->Bangalore
+    KIIT-Bhubaneswar-->WFH
+    WFH-->id1([GeeksforGeeks])
+    WFH-->id2([Correlations.Ai])
+    id2([Correlations.Ai])--> |Frontend Engineer Intern|id3([Razorpay])
+    Bangalore-->id3([Razorpay])
+    id3([Razorpay])-->?;
+```
 
-## Trophies
+<a href="https://www.github.com/RgnDunes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RgnDunes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<pre>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>   <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+</pre>
+</p>
+
+
+### Trophies
+
 <img src="https://github-profile-trophy.vercel.app/?username=rgndunes"/>
 
- 
 
+### Badges (My GitHub Stats)
+
+<div align="center">
+<a href="http://www.github.com/RgnDunes"><img src="https://github-readme-stats.vercel.app/api?username=RgnDunes&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="RgnDunes's GitHub stats" /></a>
+
+<a href="http://www.github.com/RgnDunes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RgnDunes&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/RgnDunes"><img src="https://activity-graph.herokuapp.com/graph?username=RgnDunes&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<hr/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RgnDunes&theme=monokai" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RgnDunes&theme=monokai"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RgnDunes&theme=monokai"/>
+</div>
+
+<br />
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/RgnDunes/CovidCare-Commodity-Distribution-and-Billing-System-CoVID-19" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RgnDunes&repo=CovidCare-Commodity-Distribution-and-Billing-System-CoVID-19&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RgnDunes/Portfolio-v3" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RgnDunes&repo=Portfolio-v3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+
+<br/>
+<div align="center">
+<h3> Support Me</h3>
+<a href="https://www.buymeacoffee.com/rgndunes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</div>
+
+
+---
