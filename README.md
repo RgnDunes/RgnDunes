@@ -2,7 +2,7 @@
 
 ### Frontend Engineer Intern @Razorpay
 
-Hey there, I'm a final year student pursuing B-Tech from Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India. If I talk about my professional experience, I've worked as <b>Technical Content Writer Intern @GeeksforGeeks</b> (published articles on topics like ReactJS, Firebase, Git, Flask, Python etc), as <b>Software Engineer Intern @Correlations.Ai</b> (worked on ReactJS, Flask, MongoDB) and currently working <b>@Razorpay as a Frontend Engineer Intern</b>.<br/><br/>
+Hey there, I'm a final year student pursuing B-Tech from Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India. If I talk about my professional experience, I've worked as <b>Technical Content Writer Intern @GeeksforGeeks</b> (published articles on topics like ReactJS, Firebase, Git, Flask, Python etc), as <b>Software Engineer Intern @Correlations.Ai</b> (worked on ReactJS, Flask, MongoDB) and currently working with <b>@Razorpay as a Frontend Engineer Intern</b>.<br/><br/>
 
 
 - 🌍  I'm based in Prayagraj, Uttar Pradesh, India.
