@@ -1,8 +1,8 @@
 # Hi 👋 My name is Divyansh Singh
 
-### Frontend Engineer Intern @Razorpay
+### Software Development Engineer @Razorpay
 
-Hey there, I'm a final year student pursuing B-Tech from Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha, India. If I talk about my professional experience, I've worked as <b>Technical Content Writer Intern @GeeksforGeeks</b> (published articles on topics like ReactJS, Firebase, Git, Flask, Python etc), as <b>Software Engineer Intern @Correlations.Ai</b> (worked on ReactJS, Flask, MongoDB) and currently working with <b>@Razorpay as a Frontend Engineer Intern</b>.<br/><br/>
+Hey folks, I'm just a skinny guy with earbuds always plugged in my ears doing some weird steps while listening to music most of time. So currently I'm working as a SDE at Razorpay in Issuer Tokenisation Team. Have had experience in working in multiple teams and on multiple projects in the last 14 months. My past work was mostly focussed on frontend related stuff but will now be expanding my horizons just to have a better glimpse of entire flow of any project. Feel free to ping me on LinkedIn (Link attached below), always happy to build more connections.
 
 
 - 🌍  I'm based in Prayagraj, Uttar Pradesh, India.
@@ -15,16 +15,9 @@ Hey there, I'm a final year student pursuing B-Tech from Kalinga Institute of In
 
 ```mermaid
 graph TD;
-    Prayagraj-->KIIT-Bhubaneswar
-    KIIT-Bhubaneswar--> |Technical Content Writer|id1([GeeksforGeeks])
-    id1([GeeksforGeeks])--> |Software Engineer Intern|id2([Correlations.Ai])
-    KIIT-Bhubaneswar-->Bangalore
-    KIIT-Bhubaneswar-->WFH
-    WFH-->id1([GeeksforGeeks])
-    WFH-->id2([Correlations.Ai])
-    id2([Correlations.Ai])--> |Frontend Engineer Intern|id3([Razorpay])
-    Bangalore-->id3([Razorpay])
-    id3([Razorpay])-->?;
+   id1([GeeksforGeeks - Technical Content Writer Intern])--> id2([Correlations.Ai - Software Engineer Intern])
+   id2([Correlations.Ai - Software Engineer Intern])--> id3([Razorpay - Frontend Engineer Intern])
+   id3([Razorpay - Frontend Engineer Intern])--> id4([Razorpay - Software Development Engineer])
 ```
 
 <a href="https://www.github.com/RgnDunes" target="_blank" rel="noreferrer"><img
