@@ -55,6 +55,12 @@ src="https://img.shields.io/github/followers/RgnDunes?logo=github&style=for-the-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RgnDunes&theme=monokai"/>
 </div>
 
+
+<div align="center">
+   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RgnDunes&bg=white&skills=C,C%2B%2B,CSS,HTML,JSON,Java,Javascript,Python,TypeScript"/>
+</div>
+
+
 <br />
 
 ### Top Repositories
