@@ -44,7 +44,6 @@ src="https://img.shields.io/github/followers/RgnDunes?logo=github&style=for-the-
 
 <a href="http://www.github.com/RgnDunes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RgnDunes&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/RgnDunes"><img src="https://activity-graph.herokuapp.com/graph?username=RgnDunes&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <hr/>
 
@@ -56,16 +55,12 @@ src="https://img.shields.io/github/followers/RgnDunes?logo=github&style=for-the-
 </div>
 
 
-<div align="center">
-   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=RgnDunes&bg=white&skills=C,C%2B%2B,CSS,HTML,JSON,Java,Javascript,Python,TypeScript"/>
-</div>
-
 
 <br />
-
+<!-- 
 ### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/RgnDunes/CovidCare-Commodity-Distribution-and-Billing-System-CoVID-19" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RgnDunes&repo=CovidCare-Commodity-Distribution-and-Billing-System-CoVID-19&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RgnDunes/Portfolio-v3" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RgnDunes&repo=Portfolio-v3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RgnDunes/CovidCare-Commodity-Distribution-and-Billing-System-CoVID-19" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RgnDunes&repo=CovidCare-Commodity-Distribution-and-Billing-System-CoVID-19&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RgnDunes/Portfolio-v3" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RgnDunes&repo=Portfolio-v3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /> -->
 
 <br/>
 <div align="center">
