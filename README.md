@@ -138,7 +138,7 @@ Engineering professional with experience across multiple projects at Razorpay. I
         <img src="https://img.shields.io/badge/Price-₹250-success?style=flat-square" alt="Price"/>
         <h3>CSS Unmasked</h3>
         <a href="https://rgndunes.gumroad.com/l/css-unmasked" target="_blank">
-          <img src="https://img.shields.io/badge/CSS_Unmasked-FF6B6B?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Unmasked"/>
+          <img src="https://rgndunes.github.io/Portfolio-v5//_next/static/media/css-unmasked-book.b2b3e971.png" alt="CSS Unmasked Book Cover" width="200" style="border-radius: 10px; margin: 10px 0;"/>
         </a>
         <p><strong>Styling secrets they never told you</strong></p>
         <ul align="left">
@@ -155,7 +155,7 @@ Engineering professional with experience across multiple projects at Razorpay. I
         <img src="https://img.shields.io/badge/Price-₹1,499-success?style=flat-square" alt="Price"/>
         <h3>Full Spectrum JavaScript</h3>
         <a href="https://rgndunes.gumroad.com/l/full-spectrum-javascript" target="_blank">
-          <img src="https://img.shields.io/badge/Full_Spectrum_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Spectrum JavaScript"/>
+          <img src="https://rgndunes.github.io/Portfolio-v5//_next/static/media/javascript-book.a2af865d.jpg" alt="Full Spectrum JavaScript Book Cover" width="200" style="border-radius: 10px; margin: 10px 0;"/>
         </a>
         <p><strong>Coding concepts for every developer</strong></p>
         <ul align="left">
@@ -171,7 +171,9 @@ Engineering professional with experience across multiple projects at Razorpay. I
       <td width="33%" align="center">
         <img src="https://img.shields.io/badge/Status-Coming_Soon-blue?style=flat-square" alt="Status"/>
         <h3>Frontend HLD Playbook</h3>
-        <img src="https://img.shields.io/badge/Coming_Soon-6A5ACD?style=for-the-badge&logo=buffer&logoColor=white" alt="Coming Soon"/>
+        <a href="#" target="_blank">
+          <img src="https://rgndunes.github.io/Portfolio-v5//_next/static/media/hld-book.c87ef4ba.jpg" alt="Frontend HLD Playbook Book Cover" width="200" style="border-radius: 10px; margin: 10px 0;"/>
+        </a>
         <p><strong>Architect your frontend like a pro</strong></p>
         <ul align="left">
           <li>System design patterns for UI</li>
