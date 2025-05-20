@@ -125,6 +125,71 @@ Engineering professional with experience across multiple projects at Razorpay. I
   </tr>
 </table>
 
+## 📚 Digital Products
+
+<div align="center">
+  <h3>Authored with ❤️ and way too much caffeine</h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Price-₹250-success?style=flat-square" alt="Price"/>
+        <h3>CSS Unmasked</h3>
+        <a href="https://rgndunes.gumroad.com/l/css-unmasked" target="_blank">
+          <img src="https://img.shields.io/badge/CSS_Unmasked-FF6B6B?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Unmasked"/>
+        </a>
+        <p><strong>Styling secrets they never told you</strong></p>
+        <ul align="left">
+          <li>70+ pages of pure CSS wizardry</li>
+          <li>Debug styling issues like a pro</li>
+          <li>Master flexbox, grid & animations</li>
+        </ul>
+        <p><em>Because the cascade shouldn't feel like chaos</em> 🎨</p>
+        <a href="https://rgndunes.gumroad.com/l/css-unmasked" target="_blank">
+          <img src="https://img.shields.io/badge/Get_it_now-2ea44f?style=for-the-badge" alt="Get CSS Unmasked"/>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Price-₹1,499-success?style=flat-square" alt="Price"/>
+        <h3>Full Spectrum JavaScript</h3>
+        <a href="https://rgndunes.gumroad.com/l/full-spectrum-javascript" target="_blank">
+          <img src="https://img.shields.io/badge/Full_Spectrum_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Spectrum JavaScript"/>
+        </a>
+        <p><strong>Coding concepts for every developer</strong></p>
+        <ul align="left">
+          <li>208-page comprehensive guide</li>
+          <li>From basics to advanced patterns</li>
+          <li>Practical examples & exercises</li>
+        </ul>
+        <p><em>From fundamentals to full mastery</em> 🚀</p>
+        <a href="https://rgndunes.gumroad.com/l/full-spectrum-javascript" target="_blank">
+          <img src="https://img.shields.io/badge/Get_it_now-2ea44f?style=for-the-badge" alt="Get Full Spectrum JavaScript"/>
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Status-Coming_Soon-blue?style=flat-square" alt="Status"/>
+        <h3>Frontend HLD Playbook</h3>
+        <img src="https://img.shields.io/badge/Coming_Soon-6A5ACD?style=for-the-badge&logo=buffer&logoColor=white" alt="Coming Soon"/>
+        <p><strong>Architect your frontend like a pro</strong></p>
+        <ul align="left">
+          <li>System design patterns for UI</li>
+          <li>Scalable architecture blueprints</li>
+          <li>Performance optimization strategies</li>
+        </ul>
+        <p><em>Stay tuned! Your architecture deserves this</em> 🏗️</p>
+        <img src="https://img.shields.io/badge/Join_Waitlist-9cf?style=for-the-badge" alt="Join Waitlist"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Over_1000+-Happy_Readers-blueviolet?style=for-the-badge" alt="Happy Readers"/>
+  <h4>Check out my <a href="https://rgndunes.github.io/Portfolio-v5/" target="_blank">portfolio</a> for more details about these products!</h4>
+</div>
+
 ## GitHub Stats
 
 <div align="center">
