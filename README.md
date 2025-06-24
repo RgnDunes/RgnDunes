@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Senior Software Development Engineer</h3>
+  <h3>Software Engineer II</h3>
   <h4><em>Turning coffee into code since... well, whenever coffee was invented</em> ☕</h4>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rgndunes/)
@@ -16,7 +16,7 @@
 
 ## About Me
 
-Engineering professional with experience across multiple projects at Razorpay. Initially focused on frontend development, now expanding into full-stack to gain comprehensive project flow understanding.
+Currently serving in web infra team at Rippling. Initially focused on frontend development, now expanding into full-stack to gain comprehensive project flow understanding.
 
 - 📍 Based in Prayagraj, Uttar Pradesh, India
 - 📄 View my [Resume](./Resume.pdf) (warning: contains evidence of actual productivity)
@@ -35,7 +35,19 @@ Engineering professional with experience across multiple projects at Razorpay. I
     <table>
       <tr>
         <td width="140">
-          <h3>2021 - Present</h3>
+          <h3>2025 - Present</h3>
+          <img src="https://img.shields.io/badge/Rippling-800000?style=for-the-badge&logo=rippling&logoColor=FFDB58" alt="Rippling"/>
+        </td>
+        <td>
+          <h3>Software Engineer II</h3>
+          <ul>
+            <li>Stay tuned...</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td width="140">
+          <h3>2021 - 2025</h3>
           <img src="https://img.shields.io/badge/Razorpay-0066FF?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay"/>
         </td>
         <td>
