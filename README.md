@@ -181,7 +181,7 @@ Currently serving in web infra team at Rippling. Initially focused on frontend d
         </a>
       </td>
       <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/Status-Coming_Soon-blue?style=flat-square" alt="Price"/>
+        <img src="https://img.shields.io/badge/Price-₹1,500-success?style=flat-square" alt="Price"/>
         <h3>Frontend System Design Decoded</h3>
         <a href="https://rgndunes.gumroad.com/l/frontend-system-design-decoded" target="_blank">
           <img src="https://public-files.gumroad.com/9ijyf9t3jswbybs9lhazo26qb820" alt="Frontend HLD Playbook Book Cover" width="200" style="border-radius: 10px; margin: 10px 0;"/>
@@ -193,7 +193,7 @@ Currently serving in web infra team at Rippling. Initially focused on frontend d
           <li>Performance optimization strategies</li>
         </ul>
         <p><em>Stay tuned! Your architecture deserves this</em> 🏗️</p>
-        <img src="https://img.shields.io/badge/Join_Waitlist-9cf?style=for-the-badge" alt="Get Frontend System Design Decoded"/>
+        <img src="https://img.shields.io/badge/Get_it_now-2ea44f?style=for-the-badge" alt="Get Frontend System Design Decoded"/>
       </td>
     </tr>
   </table>
